@@ -15,6 +15,6 @@
 
 [Visit React Tips website](http://react.tips).
 
-## Author
+## Credit goes to
 
 [Artemij Fedosejev](http://artemij.com)
